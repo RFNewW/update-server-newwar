@@ -1,0 +1,1 @@
+rf_online.bin|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/rf_online.bin|E6C5A3BE726AFEC61C896CF27A2C5999

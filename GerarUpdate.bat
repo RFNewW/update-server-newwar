@@ -31,8 +31,8 @@ echo     $lines += "$relativePath|$downloadUrl|$hash" >> temp_gen.ps1
 echo } >> temp_gen.ps1
 echo [IO.File]::WriteAllLines('patchlist.txt', $lines) >> temp_gen.ps1
 
-:: 3. Executa o script e depois apaga
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& '.\temp_gen.ps1'"
+:: 3. Executa o script usando o caminho EXATO do Windows e depois apaga
+%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "& '.\temp_gen.ps1'"
 del temp_gen.ps1
 
 echo ==================================================

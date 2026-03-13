@@ -4,7 +4,7 @@ DataTable/Character.edf|https://raw.githubusercontent.com/RFNewW/update-server-n
 DataTable/clientdb.dat|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/clientdb.dat|F70EE3FC10F8F84C80BC9060155FBF46
 DataTable/Csxx.txt|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Csxx.txt|4DE35C3E04E446D1737EFAB7752666FC
 DataTable/GameSetting.ini|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/GameSetting.ini|9507F015BA5C5C44435902663F2CC643
-DataTable/Item.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Item.edf|DF84CD36009C1E8D47354A5DE95E0A27
+DataTable/Item.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Item.edf|18212D5CB10D7CD8B964D2CA58146AAF
 DataTable/Item1.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Item1.edf|CA0791ACF01D788409357411C2BDD8EA
 DataTable/ItemCash.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/ItemCash.edf|C619369D1AA5C2A97922AC8BAB699932
 DataTable/ItemCombine.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/ItemCombine.edf|6683CC51E208EF8C05B9B3FD24404F1A
@@ -46,7 +46,7 @@ DataTable/en-ph/LauncherMessage.ini|https://raw.githubusercontent.com/RFNewW/upd
 DataTable/en-ph/MAPDATA.DAT|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/en-ph/MAPDATA.DAT|AD9600617151B3F12268DA6D6843A97C
 DataTable/en-ph/NDCharacter.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/en-ph/NDCharacter.edf|4CF378BCEF613159EEE7B15E7C8F1D24
 DataTable/en-ph/NDEventShip.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/en-ph/NDEventShip.edf|7770875A74AE6D11ACBA33A3FBAD1CB4
-DataTable/en-ph/NDItem.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/en-ph/NDItem.edf|D497F08651D4F59013E1C84FC72F138C
+DataTable/en-ph/NDItem.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/en-ph/NDItem.edf|648B5A3BE637A893549615402CEF0A5E
 DataTable/en-ph/NDItemCash.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/en-ph/NDItemCash.edf|27866A1656BD203CA6AB3880CA965183
 DataTable/en-ph/NDLanguage.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/en-ph/NDLanguage.edf|06B5A900F63AFAAF341A2F1B0499F38E
 DataTable/en-ph/NDMap.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/en-ph/NDMap.edf|E980C8104D25321F1B3E2368C0AB4BCE

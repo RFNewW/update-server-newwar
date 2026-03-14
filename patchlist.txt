@@ -1,7 +1,7 @@
 rf_online.bin|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/rf_online.bin|E6C5A3BE726AFEC61C896CF27A2C5999
 DataTable/BlockData.dat|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/BlockData.dat|F1D3FF8443297732862DF21DC4E57262
 DataTable/Character.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Character.edf|6189490CC47AD41C1BF255925300B8C7
-DataTable/clientdb.dat|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/clientdb.dat|F70EE3FC10F8F84C80BC9060155FBF46
+DataTable/clientdb.dat|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/clientdb.dat|749477DE4FC466D79B9D1A4B57D5ED18
 DataTable/Csxx.txt|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Csxx.txt|4DE35C3E04E446D1737EFAB7752666FC
 DataTable/GameSetting.ini|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/GameSetting.ini|9507F015BA5C5C44435902663F2CC643
 DataTable/Item.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Item.edf|18212D5CB10D7CD8B964D2CA58146AAF

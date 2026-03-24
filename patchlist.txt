@@ -1,6 +1,6 @@
 DataTable/Character.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Character.edf|2B66208D72465637F582FFCAFAA0C2EF
 DataTable/clientdb.dat|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/clientdb.dat|EAA232D60954E4337B7B5C8F99A727C9
-DataTable/Csxx.txt|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Csxx.txt|4DE35C3E04E446D1737EFAB7752666FC
+DataTable/Csxx.txt|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Csxx.txt|0BDA13DC67303771BD74F09FF9544768
 DataTable/desktop.ini|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/desktop.ini|E3FFEDC3FBE8BB62EFFE21E370722198
 DataTable/EventShip.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/EventShip.edf|A3C1784A5E20E552DC3458F1EE22FA0E
 DataTable/EventSound.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/EventSound.edf|DC20221A701E4A794A4BF006D6DC083F

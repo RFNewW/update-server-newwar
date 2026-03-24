@@ -3,7 +3,7 @@ DataTable/Character.edf|https://raw.githubusercontent.com/RFNewW/update-server-n
 DataTable/Csxx.txt|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Csxx.txt|0BDA13DC67303771BD74F09FF9544768
 DataTable/EventShip.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/EventShip.edf|A3C1784A5E20E552DC3458F1EE22FA0E
 DataTable/GameSetting.ini|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/GameSetting.ini|ACB5BA5B32F4100C6CC1F6BBD56233B6
-DataTable/Item.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Item.edf|35D083760F488CD8B7B0458046215A10
+DataTable/Item.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Item.edf|18212D5CB10D7CD8B964D2CA58146AAF
 DataTable/Item1.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Item1.edf|CA0791ACF01D788409357411C2BDD8EA
 DataTable/ItemCash.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/ItemCash.edf|E758D8C0D688B95B183019AEB3126247
 DataTable/ItemCombine.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/ItemCombine.edf|22D95A4F00D2F68838862647AFB82631
